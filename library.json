@@ -74,13 +74,29 @@
     }
   ],
   "next_link_id": 7,
-  "next_tag_id": 3,
+  "next_tag_id": 7,
   "tags": [
     {
       "id": 2,
       "name": "free"
+    },
+    {
+      "id": 3,
+      "name": "paid"
+    },
+    {
+      "id": 4,
+      "name": "tool"
+    },
+    {
+      "id": 5,
+      "name": "library"
+    },
+    {
+      "id": 6,
+      "name": "github-repo"
     }
   ],
-  "updated_at": "2026-02-20T10:22:44+00:00",
+  "updated_at": "2026-02-20T10:23:25+00:00",
   "version": 1
 }
