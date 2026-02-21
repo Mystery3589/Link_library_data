@@ -110,9 +110,22 @@
       ],
       "title": "Hacks plaining",
       "url": "https://www.hacksplaining.com/"
+    },
+    {
+      "created_at": "2026-02-21T05:09:38+00:00",
+      "description": "match command-line arguments to their help text",
+      "id": 10,
+      "normalized_url": "https://explainshell.com/",
+      "notes": "",
+      "tag_ids": [
+        2,
+        4
+      ],
+      "title": "explainshell.com - match command-line arguments to their help text",
+      "url": "https://explainshell.com/"
     }
   ],
-  "next_link_id": 10,
+  "next_link_id": 11,
   "next_tag_id": 7,
   "tags": [
     {
@@ -136,6 +149,6 @@
       "name": "github-repo"
     }
   ],
-  "updated_at": "2026-02-21T05:07:44+00:00",
+  "updated_at": "2026-02-21T05:09:38+00:00",
   "version": 1
 }
