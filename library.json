@@ -162,9 +162,22 @@
       ],
       "title": "ASCII Art Archive - Home of ASCII Art",
       "url": "https://www.asciiart.eu/"
+    },
+    {
+      "created_at": "2026-02-21T05:22:40+00:00",
+      "description": "A collection of interactive online music theory tools and piano references for notes, keys, chords and scales. A fun way to learn and retain music concepts.",
+      "id": 14,
+      "normalized_url": "https://muted.io/",
+      "notes": "",
+      "tag_ids": [
+        2,
+        4
+      ],
+      "title": "Magical Music Theory Tools to Learn Music Online for Free",
+      "url": "https://muted.io/"
     }
   ],
-  "next_link_id": 14,
+  "next_link_id": 15,
   "next_tag_id": 7,
   "tags": [
     {
@@ -188,6 +201,6 @@
       "name": "github-repo"
     }
   ],
-  "updated_at": "2026-02-21T05:20:51+00:00",
+  "updated_at": "2026-02-21T05:22:40+00:00",
   "version": 1
 }
