@@ -100,7 +100,8 @@
       "tag_ids": [
         10,
         2,
-        8
+        8,
+        4
       ],
       "title": "Artflow ai",
       "url": "https://app.artflow.ai/actor-studio"
@@ -256,6 +257,6 @@
       "name": "app"
     }
   ],
-  "updated_at": "2026-03-11T12:54:54+00:00",
+  "updated_at": "2026-03-11T12:55:11+00:00",
   "version": 1
 }
