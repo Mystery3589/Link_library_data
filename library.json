@@ -288,9 +288,23 @@
       ],
       "title": "IntelBase",
       "url": "https://intelbase.is/"
+    },
+    {
+      "created_at": "2026-03-11T13:27:55+00:00",
+      "description": "CandyCall is the best AI prank calling app on the internet. Start sending funny prank calls using hundreds of famous celebrity AI voices.",
+      "id": 21,
+      "normalized_url": "https://www.candycall.io/",
+      "notes": "",
+      "tag_ids": [
+        2,
+        11,
+        17
+      ],
+      "title": "CandyCall - Send AI Prank Calls to friends.",
+      "url": "https://www.candycall.io/"
     }
   ],
-  "next_link_id": 21,
+  "next_link_id": 22,
   "next_tag_id": 18,
   "tags": [
     {
@@ -358,6 +372,6 @@
       "name": "prank"
     }
   ],
-  "updated_at": "2026-03-11T13:27:34+00:00",
+  "updated_at": "2026-03-11T13:27:55+00:00",
   "version": 1
 }
