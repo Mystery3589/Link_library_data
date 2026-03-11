@@ -56,7 +56,8 @@
       "normalized_url": "https://agent.opus.pro/",
       "notes": "",
       "tag_ids": [
-        2
+        2,
+        9
       ],
       "title": "Agent Opus | Create videos from ideas in any form",
       "url": "https://agent.opus.pro/"
@@ -238,6 +239,6 @@
       "name": "vedio-generator"
     }
   ],
-  "updated_at": "2026-03-11T12:48:12+00:00",
+  "updated_at": "2026-03-11T12:48:33+00:00",
   "version": 1
 }
