@@ -275,7 +275,7 @@
     }
   ],
   "next_link_id": 20,
-  "next_tag_id": 16,
+  "next_tag_id": 17,
   "tags": [
     {
       "id": 2,
@@ -332,8 +332,12 @@
     {
       "id": 15,
       "name": "typing"
+    },
+    {
+      "id": 16,
+      "name": "osint"
     }
   ],
-  "updated_at": "2026-03-11T13:22:08+00:00",
+  "updated_at": "2026-03-11T13:22:21+00:00",
   "version": 1
 }
