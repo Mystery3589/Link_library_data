@@ -211,7 +211,7 @@
     }
   ],
   "next_link_id": 17,
-  "next_tag_id": 11,
+  "next_tag_id": 12,
   "tags": [
     {
       "id": 2,
@@ -248,8 +248,12 @@
     {
       "id": 10,
       "name": "character-generator"
+    },
+    {
+      "id": 11,
+      "name": "application"
     }
   ],
-  "updated_at": "2026-03-11T12:53:35+00:00",
+  "updated_at": "2026-03-11T12:54:01+00:00",
   "version": 1
 }
