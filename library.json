@@ -95,7 +95,8 @@
       "normalized_url": "https://app.artflow.ai/actor-studio",
       "notes": "",
       "tag_ids": [
-        2
+        2,
+        10
       ],
       "title": "Artflow ai",
       "url": "https://app.artflow.ai/actor-studio"
@@ -243,6 +244,6 @@
       "name": "character-generator"
     }
   ],
-  "updated_at": "2026-03-11T12:51:43+00:00",
+  "updated_at": "2026-03-11T12:51:58+00:00",
   "version": 1
 }
