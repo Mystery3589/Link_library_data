@@ -242,7 +242,7 @@
     }
   ],
   "next_link_id": 18,
-  "next_tag_id": 15,
+  "next_tag_id": 16,
   "tags": [
     {
       "id": 2,
@@ -295,8 +295,12 @@
     {
       "id": 14,
       "name": "cartoons"
+    },
+    {
+      "id": 15,
+      "name": "typing"
     }
   ],
-  "updated_at": "2026-03-11T13:03:18+00:00",
+  "updated_at": "2026-03-11T13:03:29+00:00",
   "version": 1
 }
