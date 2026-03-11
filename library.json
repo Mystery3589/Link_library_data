@@ -265,7 +265,11 @@
       "id": 19,
       "normalized_url": "https://namechk.com/",
       "notes": "",
-      "tag_ids": [],
+      "tag_ids": [
+        2,
+        4,
+        8
+      ],
       "title": "Namechk",
       "url": "https://namechk.com/"
     }
@@ -330,6 +334,6 @@
       "name": "typing"
     }
   ],
-  "updated_at": "2026-03-11T13:21:37+00:00",
+  "updated_at": "2026-03-11T13:22:08+00:00",
   "version": 1
 }
