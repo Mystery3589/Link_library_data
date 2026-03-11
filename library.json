@@ -7,7 +7,8 @@
       "normalized_url": "https://www.romsgames.net/",
       "notes": "",
       "tag_ids": [
-        2
+        2,
+        7
       ],
       "title": "Download ROMs for GBA, SNES, NDS, N64, PSX, 3DS, GBC and more!",
       "url": "https://www.romsgames.net/"
@@ -245,6 +246,6 @@
       "name": "character-generator"
     }
   ],
-  "updated_at": "2026-03-11T12:52:29+00:00",
+  "updated_at": "2026-03-11T12:52:37+00:00",
   "version": 1
 }
