@@ -204,7 +204,7 @@
     }
   ],
   "next_link_id": 17,
-  "next_tag_id": 10,
+  "next_tag_id": 11,
   "tags": [
     {
       "id": 2,
@@ -237,8 +237,12 @@
     {
       "id": 9,
       "name": "vedio-generator"
+    },
+    {
+      "id": 10,
+      "name": "character-generator"
     }
   ],
-  "updated_at": "2026-03-11T12:48:34+00:00",
+  "updated_at": "2026-03-11T12:51:43+00:00",
   "version": 1
 }
