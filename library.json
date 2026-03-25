@@ -318,7 +318,7 @@
     }
   ],
   "next_link_id": 23,
-  "next_tag_id": 18,
+  "next_tag_id": 19,
   "tags": [
     {
       "id": 2,
@@ -383,8 +383,12 @@
     {
       "id": 17,
       "name": "prank"
+    },
+    {
+      "id": 18,
+      "name": "wallpaper"
     }
   ],
-  "updated_at": "2026-03-24T12:21:25+00:00",
+  "updated_at": "2026-03-25T00:06:56+00:00",
   "version": 1
 }
