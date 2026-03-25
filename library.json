@@ -319,7 +319,7 @@
     }
   ],
   "next_link_id": 23,
-  "next_tag_id": 19,
+  "next_tag_id": 20,
   "tags": [
     {
       "id": 2,
@@ -388,8 +388,12 @@
     {
       "id": 18,
       "name": "wallpaper"
+    },
+    {
+      "id": 19,
+      "name": "animation"
     }
   ],
-  "updated_at": "2026-03-25T00:07:27+00:00",
+  "updated_at": "2026-03-25T00:07:53+00:00",
   "version": 1
 }
