@@ -345,9 +345,21 @@
       ],
       "title": "Wokwi - World's most advanced ESP32 Simulator",
       "url": "https://wokwi.com/"
+    },
+    {
+      "created_at": "2026-03-30T14:04:03+00:00",
+      "description": "Swishy is the leading AI motion designer and AI animator platform. Create professional motion graphics, animated typefaces, and stunning video animations without After Effects. Export to MP4, MOV, and GIF instantly.",
+      "id": 25,
+      "normalized_url": "https://www.swishy.ai/",
+      "notes": "",
+      "tag_ids": [
+        2
+      ],
+      "title": "Swishy - AI Motion Designer & Animator",
+      "url": "https://www.swishy.ai/"
     }
   ],
-  "next_link_id": 25,
+  "next_link_id": 26,
   "next_tag_id": 20,
   "tags": [
     {
@@ -423,6 +435,6 @@
       "name": "animation"
     }
   ],
-  "updated_at": "2026-03-30T12:11:42+00:00",
+  "updated_at": "2026-03-30T14:04:03+00:00",
   "version": 1
 }
