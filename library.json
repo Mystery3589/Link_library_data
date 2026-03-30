@@ -353,7 +353,9 @@
       "normalized_url": "https://www.swishy.ai/",
       "notes": "",
       "tag_ids": [
-        2
+        2,
+        20,
+        8
       ],
       "title": "Swishy - AI Motion Designer & Animator",
       "url": "https://www.swishy.ai/"
@@ -439,6 +441,6 @@
       "name": "motion-design"
     }
   ],
-  "updated_at": "2026-03-30T14:10:55+00:00",
+  "updated_at": "2026-03-30T14:11:50+00:00",
   "version": 1
 }
