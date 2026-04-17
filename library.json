@@ -398,7 +398,7 @@
     }
   ],
   "next_link_id": 29,
-  "next_tag_id": 23,
+  "next_tag_id": 24,
   "tags": [
     {
       "id": 2,
@@ -483,8 +483,12 @@
     {
       "id": 22,
       "name": "map-poster"
+    },
+    {
+      "id": 23,
+      "name": "projects"
     }
   ],
-  "updated_at": "2026-04-17T16:03:13+00:00",
+  "updated_at": "2026-04-17T16:03:36+00:00",
   "version": 1
 }
