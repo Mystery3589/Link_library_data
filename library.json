@@ -383,9 +383,21 @@
       "tag_ids": [],
       "title": "Terraink: Free Map Poster & Wallpaper Creator",
       "url": "https://terraink.app/"
+    },
+    {
+      "created_at": "2026-04-17T16:03:13+00:00",
+      "description": "Listed 500+ mini project ideas from different domains like EnTc, IoT, Robotics etc, I will keep updating this list & i will add more projects. - astrix884/500-Engineering-Mini-Projects-EnTC-ECE-IoT-Mechatronics-Robotics",
+      "id": 28,
+      "normalized_url": "https://github.com/astrix884/500-Engineering-Mini-Projects-EnTC-ECE-IoT-Mechatronics-Robotics",
+      "notes": "",
+      "tag_ids": [
+        6
+      ],
+      "title": "GitHub - astrix884/500-Engineering-Mini-Projects-EnTC-ECE-IoT-Mechatronics-Robotics: Listed 500+ mini project ideas from different domains like EnTc, IoT, Robotics etc, I will keep",
+      "url": "https://github.com/astrix884/500-Engineering-Mini-Projects-EnTC-ECE-IoT-Mechatronics-Robotics"
     }
   ],
-  "next_link_id": 28,
+  "next_link_id": 29,
   "next_tag_id": 23,
   "tags": [
     {
@@ -473,6 +485,6 @@
       "name": "map-poster"
     }
   ],
-  "updated_at": "2026-04-17T16:02:16+00:00",
+  "updated_at": "2026-04-17T16:03:13+00:00",
   "version": 1
 }
