@@ -414,7 +414,7 @@
     }
   ],
   "next_link_id": 30,
-  "next_tag_id": 24,
+  "next_tag_id": 25,
   "tags": [
     {
       "id": 2,
@@ -503,8 +503,12 @@
     {
       "id": 23,
       "name": "projects"
+    },
+    {
+      "id": 24,
+      "name": "manga"
     }
   ],
-  "updated_at": "2026-05-20T14:17:46+00:00",
+  "updated_at": "2026-05-20T14:18:25+00:00",
   "version": 1
 }
