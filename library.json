@@ -407,7 +407,8 @@
       "notes": "",
       "tag_ids": [
         2,
-        8
+        8,
+        24
       ],
       "title": "Manga read",
       "url": "https://www.mangaread.org/"
@@ -509,6 +510,6 @@
       "name": "manga"
     }
   ],
-  "updated_at": "2026-05-20T14:18:25+00:00",
+  "updated_at": "2026-05-20T14:18:46+00:00",
   "version": 1
 }
