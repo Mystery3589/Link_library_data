@@ -439,10 +439,24 @@
       ],
       "title": "Ankregames",
       "url": "https://ankergames.net/"
+    },
+    {
+      "created_at": "2026-06-16T15:05:18+00:00",
+      "description": "Your source for the best high quality wallpapers on the Net!",
+      "id": 32,
+      "normalized_url": "https://wallhaven.cc/",
+      "notes": "",
+      "tag_ids": [
+        2,
+        18,
+        26
+      ],
+      "title": "Awesome Wallpapers - wallhaven.cc",
+      "url": "https://wallhaven.cc/"
     }
   ],
-  "next_link_id": 32,
-  "next_tag_id": 26,
+  "next_link_id": 33,
+  "next_tag_id": 27,
   "tags": [
     {
       "id": 2,
@@ -539,8 +553,12 @@
     {
       "id": 25,
       "name": "music"
+    },
+    {
+      "id": 26,
+      "name": "static"
     }
   ],
-  "updated_at": "2026-06-09T17:41:54+00:00",
+  "updated_at": "2026-06-16T15:05:18+00:00",
   "version": 1
 }
