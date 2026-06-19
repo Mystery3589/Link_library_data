@@ -468,9 +468,22 @@
       ],
       "title": "Hooktheory: Create Amazing Music.",
       "url": "https://www.hooktheory.com/"
+    },
+    {
+      "created_at": "2026-06-19T12:16:33+00:00",
+      "description": "Create Minecraft mods without coding on the world's most powerful mod maker. Join the 500,000+ players today and bring your idea to life! Make your own full mod, items, weapons, blocks, armor, mobs, biomes, and more",
+      "id": 34,
+      "normalized_url": "https://creativemode.net/",
+      "notes": "",
+      "tag_ids": [
+        7,
+        8
+      ],
+      "title": "Minecraft Mods without Coding",
+      "url": "https://creativemode.net/"
     }
   ],
-  "next_link_id": 34,
+  "next_link_id": 35,
   "next_tag_id": 27,
   "tags": [
     {
@@ -574,6 +587,6 @@
       "name": "static"
     }
   ],
-  "updated_at": "2026-06-19T12:12:11+00:00",
+  "updated_at": "2026-06-19T12:16:33+00:00",
   "version": 1
 }
