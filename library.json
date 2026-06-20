@@ -509,9 +509,22 @@
       ],
       "title": "EarthCam - Webcam Network",
       "url": "https://www.earthcam.com/"
+    },
+    {
+      "created_at": "2026-06-20T05:44:29+00:00",
+      "description": "Write a letter to the future: set goals for yourself, make a prediction about the world. Envision the future, and then make it happen. FutureMe has been delivering letters to the future for millions of people since 2002.",
+      "id": 37,
+      "normalized_url": "https://www.futureme.org/",
+      "notes": "",
+      "tag_ids": [
+        2,
+        8
+      ],
+      "title": "FutureMe: Write a Letter to your Future Self",
+      "url": "https://www.futureme.org/"
     }
   ],
-  "next_link_id": 37,
+  "next_link_id": 38,
   "next_tag_id": 28,
   "tags": [
     {
@@ -619,6 +632,6 @@
       "name": "story"
     }
   ],
-  "updated_at": "2026-06-20T05:42:54+00:00",
+  "updated_at": "2026-06-20T05:44:29+00:00",
   "version": 1
 }
