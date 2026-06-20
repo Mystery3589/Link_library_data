@@ -525,7 +525,7 @@
     },
     {
       "created_at": "2026-06-20T05:46:26+00:00",
-      "description": "Supercook is a recipe search engine that lets you search by ingredients you have at home. Find thousands of recipes you can make right now with the ingredients you have available at home.  Supercook can help you save hundreds on grocery bills by showing you how to fully use the i",
+      "description": "Supercook is a recipe search engine that lets you search by ingredients you have at home. Find thousands of recipes you can make right now with the ingredients you have available at home.",
       "id": 38,
       "normalized_url": "https://www.supercook.com/",
       "notes": "",
@@ -645,6 +645,6 @@
       "name": "story"
     }
   ],
-  "updated_at": "2026-06-20T05:46:26+00:00",
+  "updated_at": "2026-06-20T05:47:07+00:00",
   "version": 1
 }
