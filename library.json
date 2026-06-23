@@ -535,9 +535,22 @@
       ],
       "title": "Supercook: recipe search by ingredients you have at home",
       "url": "https://www.supercook.com/"
+    },
+    {
+      "created_at": "2026-06-23T13:01:55+00:00",
+      "description": "Discover and track your favorite movies and TV shows across all streaming platforms. Get personalized recommendations, trending content, and streaming availability information.",
+      "id": 39,
+      "normalized_url": "https://cinehd.app/home",
+      "notes": "",
+      "tag_ids": [
+        2,
+        8
+      ],
+      "title": "CineHD - Explore Movies & TV Shows Across All Platforms",
+      "url": "https://cinehd.app/home"
     }
   ],
-  "next_link_id": 39,
+  "next_link_id": 40,
   "next_tag_id": 28,
   "tags": [
     {
@@ -645,6 +658,6 @@
       "name": "story"
     }
   ],
-  "updated_at": "2026-06-20T05:48:44+00:00",
+  "updated_at": "2026-06-23T13:01:55+00:00",
   "version": 1
 }
