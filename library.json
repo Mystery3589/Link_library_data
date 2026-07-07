@@ -548,10 +548,24 @@
       ],
       "title": "CineHD - Explore Movies & TV Shows Across All Platforms",
       "url": "https://cinehd.app/home"
+    },
+    {
+      "created_at": "2026-07-07T18:00:45+00:00",
+      "description": "Stream anime online free in HD on ANITUSK. Watch subbed and dubbed anime. Discover trending, seasonal, and top-rated anime powered by AniList.",
+      "id": 40,
+      "normalized_url": "https://anitusk.com/",
+      "notes": "",
+      "tag_ids": [
+        2,
+        8,
+        28
+      ],
+      "title": "ANITUSK \u2013 Watch Anime Online Free in HD | Sub & Dub",
+      "url": "https://anitusk.com/"
     }
   ],
-  "next_link_id": 40,
-  "next_tag_id": 28,
+  "next_link_id": 41,
+  "next_tag_id": 29,
   "tags": [
     {
       "id": 2,
@@ -656,8 +670,12 @@
     {
       "id": 27,
       "name": "story"
+    },
+    {
+      "id": 28,
+      "name": "anime"
     }
   ],
-  "updated_at": "2026-06-23T13:01:55+00:00",
+  "updated_at": "2026-07-07T18:00:45+00:00",
   "version": 1
 }
