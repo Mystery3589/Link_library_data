@@ -1,7 +1,7 @@
 {
   "version": 2,
   "tags_v3_applied": true,
-  "updated_at": "2026-07-22T06:04:00.817Z",
+  "updated_at": "2026-07-22T07:08:01.468Z",
   "admin_password": "admin",
   "next_link_id": 41,
   "next_tag_id": 24,
@@ -128,19 +128,7 @@
       "id": 1,
       "name": "Mystery3589",
       "role": "Repository Owner & Creator",
-      "link": "https://github.com/Mystery3589",
-      "links": [
-        {
-          "platform": "GitHub",
-          "url": "https://github.com/Mystery3589",
-          "label": ""
-        },
-        {
-          "platform": "Instagram",
-          "url": "https://www.instagram.com/mystery_10869/",
-          "label": ""
-        }
-      ]
+      "link": "https://github.com/Mystery3589"
     }
   ],
   "links_per_chunk": 15,
