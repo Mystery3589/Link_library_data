@@ -1,529 +1,10 @@
 {
-  "links": [
-    {
-      "id": 1,
-      "url": "https://www.romsgames.net/",
-      "title": "Download ROMs for GBA, SNES, NDS, N64, PSX, 3DS, GBC and more!",
-      "description": "Download ROMs and Emulators for GBA, SNES, NDS, GBC, GB, N64, NES, PSP, PS2, XBOX, WII and more! All games work on PC, Mac, Android and iOS.",
-      "notes": "",
-      "tag_ids": [
-        2,
-        7,
-        8
-      ],
-      "created_at": "2026-02-20T10:03:49+00:00"
-    },
-    {
-      "id": 2,
-      "url": "https://archive.org/",
-      "title": "Internet Archive",
-      "description": "Digital Library of Free & Borrowable Texts, Movies, Music & Wayback Machine",
-      "notes": "",
-      "tag_ids": [
-        2,
-        5,
-        8
-      ],
-      "created_at": "2026-02-20T10:05:01+00:00"
-    },
-    {
-      "id": 3,
-      "url": "https://paperme.pixzens.com/en",
-      "title": "PaperMe - Custom Paper Generator",
-      "description": "Free online tool to create and print custom papers. Design lined paper, grid paper, dot paper, music paper, and more. Adjust size, color, and spacing to meet all your needs.",
-      "notes": "",
-      "tag_ids": [
-        2,
-        4,
-        8
-      ],
-      "created_at": "2026-02-20T10:14:00+00:00"
-    },
-    {
-      "id": 4,
-      "url": "https://commontools.org/",
-      "title": "Free Online Tools - Commontools.org",
-      "description": "Free Online Tools For Students, Teachers, Writers, Researchers, Doctors, Developers. Check out our simple, accurate, and easy-to-use online toolset.",
-      "notes": "",
-      "tag_ids": [
-        2,
-        4,
-        8
-      ],
-      "created_at": "2026-02-20T10:15:37+00:00"
-    },
-    {
-      "id": 5,
-      "url": "https://agent.opus.pro/",
-      "title": "Agent Opus | Create videos from ideas in any form",
-      "description": "AI video agent from OpusClip. Create authentic, on-brand videos from text, links, audio, blogs, and more.",
-      "notes": "",
-      "tag_ids": [
-        2,
-        9,
-        8,
-        4
-      ],
-      "created_at": "2026-02-20T10:19:01+00:00"
-    },
-    {
-      "id": 6,
-      "url": "https://github.com/rajkumardusad/IP-Tracer",
-      "title": "IP-Tracer",
-      "description": "Track any ip address with IP-Tracer. IP-Tracer is developed for Linux and Termux. you can retrieve any ip address information using IP-Tracer.  - GitHub - rajkumardusad/IP-Tracer: Track any ip address with IP-Tracer.",
-      "notes": "",
-      "tag_ids": [
-        13,
-        2,
-        6,
-        12,
-        4
-      ],
-      "created_at": "2026-02-20T10:22:44+00:00"
-    },
-    {
-      "id": 7,
-      "url": "https://www.topcartoons.tv/",
-      "title": "TopCartoons.TV: Watch Online Cartoons",
-      "description": "Relive the nostalgia of your childhood with our website dedicated to classic cartoons. From Tom and Jerry to Looney Tunes, we have a vast collection of beloved animated shows from the golden age of cartoon entertainment. Stream now in high definition and enjoy the timeless humor ",
-      "notes": "",
-      "tag_ids": [
-        2,
-        8,
-        14
-      ],
-      "created_at": "2026-02-21T05:02:16+00:00"
-    },
-    {
-      "id": 8,
-      "url": "https://app.artflow.ai/actor-studio",
-      "title": "Artflow ai",
-      "description": "No.1 AI photography studio that turns you into any characters, in any locations, wearing any outfits.",
-      "notes": "",
-      "tag_ids": [
-        10,
-        2,
-        8,
-        4
-      ],
-      "created_at": "2026-02-21T05:04:37+00:00"
-    },
-    {
-      "id": 9,
-      "url": "https://www.hacksplaining.com/",
-      "title": "Hacks plaining",
-      "description": "Learn to Hack for free",
-      "notes": "",
-      "tag_ids": [
-        2,
-        8,
-        12
-      ],
-      "created_at": "2026-02-21T05:07:44+00:00"
-    },
-    {
-      "id": 10,
-      "url": "https://explainshell.com/",
-      "title": "explainshell.com - match command-line arguments to their help text",
-      "description": "match command-line arguments to their help text",
-      "notes": "",
-      "tag_ids": [
-        2,
-        4,
-        8
-      ],
-      "created_at": "2026-02-21T05:09:38+00:00"
-    },
-    {
-      "id": 11,
-      "url": "https://abookofcreatures.com/",
-      "title": "A Book of Creatures",
-      "description": "A Complete Guide to Entities of Myth, Legend, and Folklore",
-      "notes": "",
-      "tag_ids": [
-        2,
-        5,
-        8
-      ],
-      "created_at": "2026-02-21T05:10:57+00:00"
-    },
-    {
-      "id": 12,
-      "url": "https://www.typingclub.com/",
-      "title": "Free Touch Typing Software",
-      "description": "Learn touch typing online using TypingClub's free typing courses. It includes 650 typing games, typing tests and videos.",
-      "notes": "",
-      "tag_ids": [
-        2,
-        4,
-        8,
-        15
-      ],
-      "created_at": "2026-02-21T05:11:40+00:00"
-    },
-    {
-      "id": 13,
-      "url": "https://www.asciiart.eu/",
-      "title": "ASCII Art Archive - Home of ASCII Art",
-      "description": "Discover thousands of classic and modern ASCII artworks, borders, patterns, animations, and text art. Find banners, dividers, icons, and more.",
-      "notes": "",
-      "tag_ids": [
-        2,
-        5,
-        4,
-        8
-      ],
-      "created_at": "2026-02-21T05:20:51+00:00"
-    },
-    {
-      "id": 14,
-      "url": "https://muted.io/",
-      "title": "Magical Music Theory Tools to Learn Music Online for Free",
-      "description": "A collection of interactive online music theory tools and piano references for notes, keys, chords and scales. A fun way to learn and retain music concepts.",
-      "notes": "",
-      "tag_ids": [
-        2,
-        4,
-        8
-      ],
-      "created_at": "2026-02-21T05:22:40+00:00"
-    },
-    {
-      "id": 15,
-      "url": "https://net11.cc/home",
-      "title": "NetFlixMirror",
-      "description": "Watch Movies and Tv Series from Netflix, Amazon Prime Video, Disney+, Hotstar and 50+ More OTT Platform, No Ads with 1 click play available in Android mobile, Iphone IOS and computer.",
-      "notes": "",
-      "tag_ids": [
-        11,
-        2,
-        8
-      ],
-      "created_at": "2026-02-21T05:54:13+00:00"
-    },
-    {
-      "id": 16,
-      "url": "https://www.4fnet.org/",
-      "title": "4FNet",
-      "description": "4FNet restores and preserves classic PC games. Download abandoned and retro PC titles, optimized for Windows systems and ready to play today.",
-      "notes": "",
-      "tag_ids": [
-        2,
-        7,
-        8
-      ],
-      "created_at": "2026-02-21T14:30:02+00:00"
-    },
-    {
-      "id": 17,
-      "url": "https://monkeytype.com/",
-      "title": "Monkeytype | A minimalistic, customizable typing test",
-      "description": "The most customizable typing test website with a minimal design and a ton of features. Test yourself in various modes, track your progress and improve your speed.",
-      "notes": "",
-      "tag_ids": [
-        2,
-        4,
-        15,
-        8
-      ],
-      "created_at": "2026-03-11T13:03:18+00:00"
-    },
-    {
-      "id": 18,
-      "url": "https://justdeleteme.xyz/",
-      "title": "JustDeleteMe",
-      "description": "A directory of direct links to delete your account from web services.",
-      "notes": "",
-      "tag_ids": [
-        5,
-        2,
-        8
-      ],
-      "created_at": "2026-03-11T13:07:14+00:00"
-    },
-    {
-      "id": 19,
-      "url": "https://namechk.com/",
-      "title": "Namechk",
-      "description": "Username and Domain Name Checker - Search All Domain Names and UserNames to see if they're available.",
-      "notes": "",
-      "tag_ids": [
-        2,
-        4,
-        8,
-        16
-      ],
-      "created_at": "2026-03-11T13:21:37+00:00"
-    },
-    {
-      "id": 20,
-      "url": "https://intelbase.is/",
-      "title": "IntelBase",
-      "description": "Discover the identity behind any email with our accurate reverse email lookup service.",
-      "notes": "",
-      "tag_ids": [
-        3,
-        8,
-        16,
-        4
-      ],
-      "created_at": "2026-03-11T13:24:17+00:00"
-    },
-    {
-      "id": 21,
-      "url": "https://www.candycall.io/",
-      "title": "CandyCall - Send AI Prank Calls to friends.",
-      "description": "CandyCall is the best AI prank calling app on the internet. Start sending funny prank calls using hundreds of famous celebrity AI voices.",
-      "notes": "",
-      "tag_ids": [
-        2,
-        11,
-        17
-      ],
-      "created_at": "2026-03-11T13:27:55+00:00"
-    },
-    {
-      "id": 22,
-      "url": "https://motionbgs.com/",
-      "title": "Motion Backgrounds",
-      "description": "Download Free 4K Live Wallpapers at MotionBGs ✓ 100% Free ✓ Best 8770+  Animated Wallpapers for PC on Windows 11/10 & Mobile",
-      "notes": "",
-      "tag_ids": [
-        2,
-        18,
-        8,
-        19
-      ],
-      "created_at": "2026-03-24T12:21:25+00:00"
-    },
-    {
-      "id": 23,
-      "url": "https://www.toolfk.com/",
-      "title": "ToolFK Online Tools - all in one tool",
-      "description": "Online Tools offers hundreds and hundreds of utilities for editing images, animations,text,text-to-speech and more online tools .Try for free!",
-      "notes": "",
-      "tag_ids": [
-        8,
-        4,
-        2
-      ],
-      "created_at": "2026-03-26T04:23:33+00:00"
-    },
-    {
-      "id": 24,
-      "url": "https://wokwi.com/",
-      "title": "Wokwi - World's most advanced ESP32 Simulator",
-      "description": "IoT and Embedded System Simulator: ESP32, STM32, Arduino, Raspberry Pi Pico, displays, sensors, motors and WiFi simulation.",
-      "notes": "",
-      "tag_ids": [
-        2,
-        4,
-        8,
-        21
-      ],
-      "created_at": "2026-03-30T12:11:42+00:00"
-    },
-    {
-      "id": 25,
-      "url": "https://www.swishy.ai/",
-      "title": "Swishy - AI Motion Designer & Animator",
-      "description": "Swishy is the leading AI motion designer and AI animator platform. Create professional motion graphics, animated typefaces, and stunning video animations without After Effects. Export to MP4, MOV, and GIF instantly.",
-      "notes": "",
-      "tag_ids": [
-        2,
-        20,
-        8
-      ],
-      "created_at": "2026-03-30T14:04:03+00:00"
-    },
-    {
-      "id": 26,
-      "url": "https://www.withdiode.com/",
-      "title": "Diode — Build, program, and simulate hardware",
-      "description": "Diode is a 3D hardware simulator capable of simulating arduinos, integrated circuits, capacitors, transistors and much more.",
-      "notes": "",
-      "tag_ids": [
-        2,
-        8
-      ],
-      "created_at": "2026-03-30T14:13:45+00:00"
-    },
-    {
-      "id": 27,
-      "url": "https://terraink.app/",
-      "title": "Terraink: Free Map Poster & Wallpaper Creator",
-      "description": "Free online map poster and wallpaper generator. Design custom, print-ready map art for any city or location — export as PNG, PDF, or SVG. No sign-up required.",
-      "notes": "",
-      "tag_ids": [
-        22,
-        8
-      ],
-      "created_at": "2026-04-17T15:59:02+00:00"
-    },
-    {
-      "id": 28,
-      "url": "https://github.com/astrix884/500-Engineering-Mini-Projects-EnTC-ECE-IoT-Mechatronics-Robotics",
-      "title": "GitHub - astrix884/500-Engineering-Mini-Projects",
-      "description": "Listed 500+ mini project ideas from different domains like EnTc, IoT, Robotics etc, I will keep updating this list & i will add more projects. - astrix884/500-Engineering-Mini-Projects-EnTC-ECE-IoT-Mechatronics-Robotics",
-      "notes": "",
-      "tag_ids": [
-        6
-      ],
-      "created_at": "2026-04-17T16:03:13+00:00"
-    },
-    {
-      "id": 29,
-      "url": "https://www.mangaread.org/",
-      "title": "Manga read",
-      "description": "Welcome to the world of manga. Latest novelties manga to read online. A daily updated directory of the manga. Read along with us.",
-      "notes": "",
-      "tag_ids": [
-        2,
-        8,
-        24
-      ],
-      "created_at": "2026-05-20T14:17:46+00:00"
-    },
-    {
-      "id": 30,
-      "url": "https://monochrome.tf/",
-      "title": "Monochrome",
-      "description": "Stream and download millions of Hi-Res FLACs, unreleased songs and music videos, all for free on Monochrome.",
-      "notes": "",
-      "tag_ids": [
-        25,
-        2,
-        8
-      ],
-      "created_at": "2026-05-21T16:43:36+00:00"
-    },
-    {
-      "id": 31,
-      "url": "https://ankergames.net/",
-      "title": "Ankregames",
-      "description": "Free games site every game available",
-      "notes": "",
-      "tag_ids": [
-        2,
-        8
-      ],
-      "created_at": "2026-05-22T08:37:39+00:00"
-    },
-    {
-      "id": 32,
-      "url": "https://wallhaven.cc/",
-      "title": "Awesome Wallpapers - wallhaven.cc",
-      "description": "Your source for the best high quality wallpapers on the Net!",
-      "notes": "",
-      "tag_ids": [
-        2,
-        18,
-        26
-      ],
-      "created_at": "2026-06-16T15:05:18+00:00"
-    },
-    {
-      "id": 33,
-      "url": "https://www.hooktheory.com/",
-      "title": "Hooktheory: Create Amazing Music.",
-      "description": "Create amazing music with Hooktheory. Software and interactive learning material to help musicians write melodies and chord progressions.",
-      "notes": "",
-      "tag_ids": [
-        2,
-        25,
-        8,
-        3
-      ],
-      "created_at": "2026-06-19T12:10:26+00:00"
-    },
-    {
-      "id": 34,
-      "url": "https://creativemode.net/",
-      "title": "Minecraft Mods without Coding",
-      "description": "Create Minecraft mods without coding on the world's most powerful mod maker. Join the 500,000+ players today and bring your idea to life! Make your own full mod, items, weapons, blocks, armor, mobs, biomes, and more",
-      "notes": "",
-      "tag_ids": [
-        7,
-        8
-      ],
-      "created_at": "2026-06-19T12:16:33+00:00"
-    },
-    {
-      "id": 35,
-      "url": "https://storytribeapp.com/",
-      "title": "Free Online Storyboard Maker for Film & Education | StoryTribe",
-      "description": "Free online storyboard software for film, education, UX, and marketing. Create professional storyboards — no drawing skills needed. Try StoryTribe free.",
-      "notes": "",
-      "tag_ids": [
-        2,
-        3,
-        8,
-        27
-      ],
-      "created_at": "2026-06-20T05:37:19+00:00"
-    },
-    {
-      "id": 36,
-      "url": "https://www.earthcam.com/",
-      "title": "EarthCam - Webcam Network",
-      "description": "EarthCam is the leading network of live streaming webcams for tourism and entertainment around the world with 4K streaming technology.",
-      "notes": "",
-      "tag_ids": [
-        8,
-        2
-      ],
-      "created_at": "2026-06-20T05:42:54+00:00"
-    },
-    {
-      "id": 37,
-      "url": "https://www.futureme.org/",
-      "title": "FutureMe: Write a Letter to your Future Self",
-      "description": "Write a letter to the future: set goals for yourself, make a prediction about the world. Envision the future, and then make it happen. FutureMe has been delivering letters to the future for millions of people since 2002.",
-      "notes": "",
-      "tag_ids": [
-        2,
-        8
-      ],
-      "created_at": "2026-06-20T05:44:29+00:00"
-    },
-    {
-      "id": 38,
-      "url": "https://www.supercook.com/",
-      "title": "Supercook: recipe search by ingredients you have at home",
-      "description": "Supercook is a recipe search engine that lets you search by ingredients you have at home. Find thousands of recipes you can make right now with the ingredients you have available at home.",
-      "notes": "",
-      "tag_ids": [
-        2,
-        8
-      ],
-      "created_at": "2026-06-20T05:46:26+00:00"
-    },
-    {
-      "id": 39,
-      "url": "https://cinehd.app/home",
-      "title": "CineHD - Explore Movies & TV Shows Across All Platforms",
-      "description": "Discover and track your favorite movies and TV shows across all streaming platforms. Get personalized recommendations, trending content, and streaming availability information.",
-      "notes": "",
-      "tag_ids": [
-        2,
-        8
-      ],
-      "created_at": "2026-06-23T13:01:55+00:00"
-    },
-    {
-      "id": 40,
-      "url": "https://anitusk.com/",
-      "title": "ANITUSK – Watch Anime Online Free in HD | Sub & Dub",
-      "description": "Stream anime online free in HD on ANITUSK. Watch subbed and dubbed anime. Discover trending, seasonal, and top-rated anime powered by AniList.",
-      "notes": "",
-      "tag_ids": [
-        2,
-        8,
-        28
-      ],
-      "created_at": "2026-07-07T18:00:45+00:00"
-    }
-  ],
+  "version": 2,
+  "updated_at": "2026-07-22T02:20:21.094Z",
+  "admin_password": "admin",
+  "next_link_id": 41,
+  "next_tag_id": 29,
+  "next_credit_id": 2,
   "tags": [
     {
       "id": 2,
@@ -669,9 +150,576 @@
       "link": "https://github.com/Mystery3589"
     }
   ],
-  "next_link_id": 41,
-  "next_tag_id": 29,
-  "next_credit_id": 2,
-  "updated_at": "2026-07-22T01:41:53.987Z",
-  "version": 1
+  "links_per_chunk": 15,
+  "total_links": 40,
+  "chunks": [
+    "library_part1.json",
+    "library_part2.json",
+    "library_part3.json"
+  ],
+  "links": [
+    {
+      "created_at": "2026-02-20T10:03:49+00:00",
+      "description": "Download ROMs and Emulators for GBA, SNES, NDS, GBC, GB, N64, NES, PSP, PS2, XBOX, WII and more! All games work on PC, Mac, Android and iOS.",
+      "id": 1,
+      "normalized_url": "https://www.romsgames.net/",
+      "notes": "",
+      "tag_ids": [
+        2,
+        7,
+        8
+      ],
+      "title": "Download ROMs for GBA, SNES, NDS, N64, PSX, 3DS, GBC and more!",
+      "url": "https://www.romsgames.net/"
+    },
+    {
+      "created_at": "2026-02-20T10:05:01+00:00",
+      "description": "Digital Library of Free & Borrowable Texts, Movies, Music & Wayback Machine",
+      "id": 2,
+      "normalized_url": "https://archive.org/",
+      "notes": "",
+      "tag_ids": [
+        2,
+        5,
+        8
+      ],
+      "title": "Internet Archive",
+      "url": "https://archive.org/"
+    },
+    {
+      "created_at": "2026-02-20T10:14:00+00:00",
+      "description": "Free online tool to create and print custom papers. Design lined paper, grid paper, dot paper, music paper, and more. Adjust size, color, and spacing to meet all your needs.",
+      "id": 3,
+      "normalized_url": "https://paperme.pixzens.com/en",
+      "notes": "",
+      "tag_ids": [
+        2,
+        4,
+        8
+      ],
+      "title": "PaperMe - Custom Paper Generator",
+      "url": "https://paperme.pixzens.com/en"
+    },
+    {
+      "created_at": "2026-02-20T10:15:37+00:00",
+      "description": "Free Online Tools For Students, Teachers, Writers, Researchers, Doctors, Developers. Check out our simple, accurate, and easy-to-use online toolset.",
+      "id": 4,
+      "normalized_url": "https://commontools.org/",
+      "notes": "",
+      "tag_ids": [
+        2,
+        4,
+        8
+      ],
+      "title": "Free Online Tools - Commontools.org",
+      "url": "https://commontools.org/"
+    },
+    {
+      "created_at": "2026-02-20T10:19:01+00:00",
+      "description": "AI video agent from OpusClip. Create authentic, on-brand videos from text, links, audio, blogs, and more.",
+      "id": 5,
+      "normalized_url": "https://agent.opus.pro/",
+      "notes": "",
+      "tag_ids": [
+        2,
+        9,
+        8,
+        4
+      ],
+      "title": "Agent Opus | Create videos from ideas in any form",
+      "url": "https://agent.opus.pro/"
+    },
+    {
+      "created_at": "2026-02-20T10:22:44+00:00",
+      "description": "Track any ip address with IP-Tracer. IP-Tracer is developed for Linux and Termux. you can retrieve any ip address information using IP-Tracer.  - GitHub - rajkumardusad/IP-Tracer: Track any ip address with IP-Tracer.",
+      "id": 6,
+      "normalized_url": "https://github.com/rajkumardusad/IP-Tracer",
+      "notes": "",
+      "tag_ids": [
+        13,
+        2,
+        6,
+        12,
+        4
+      ],
+      "title": "IP-Tracer",
+      "url": "https://github.com/rajkumardusad/IP-Tracer"
+    },
+    {
+      "created_at": "2026-02-21T05:02:16+00:00",
+      "description": "Relive the nostalgia of your childhood with our website dedicated to classic cartoons. From Tom and Jerry to Looney Tunes, we have a vast collection of beloved animated shows from the golden age of cartoon entertainment. Stream now in high definition and enjoy the timeless humor ",
+      "id": 7,
+      "normalized_url": "https://www.topcartoons.tv/",
+      "notes": "",
+      "tag_ids": [
+        2,
+        8,
+        14
+      ],
+      "title": "TopCartoons.TV: Watch Online Cartoons",
+      "url": "https://www.topcartoons.tv/"
+    },
+    {
+      "created_at": "2026-02-21T05:04:37+00:00",
+      "description": "No.1 AI photography studio that turns you into any characters, in any locations, wearing any outfits.",
+      "id": 8,
+      "normalized_url": "https://app.artflow.ai/actor-studio",
+      "notes": "",
+      "tag_ids": [
+        10,
+        2,
+        8,
+        4
+      ],
+      "title": "Artflow ai",
+      "url": "https://app.artflow.ai/actor-studio"
+    },
+    {
+      "created_at": "2026-02-21T05:07:44+00:00",
+      "description": "Learn to Hack for free",
+      "id": 9,
+      "normalized_url": "https://www.hacksplaining.com/",
+      "notes": "",
+      "tag_ids": [
+        2,
+        8,
+        12
+      ],
+      "title": "Hacks plaining",
+      "url": "https://www.hacksplaining.com/"
+    },
+    {
+      "created_at": "2026-02-21T05:09:38+00:00",
+      "description": "match command-line arguments to their help text",
+      "id": 10,
+      "normalized_url": "https://explainshell.com/",
+      "notes": "",
+      "tag_ids": [
+        2,
+        4,
+        8
+      ],
+      "title": "explainshell.com - match command-line arguments to their help text",
+      "url": "https://explainshell.com/"
+    },
+    {
+      "created_at": "2026-02-21T05:10:57+00:00",
+      "description": "A Complete Guide to Entities of Myth, Legend, and Folklore",
+      "id": 11,
+      "normalized_url": "https://abookofcreatures.com/",
+      "notes": "",
+      "tag_ids": [
+        2,
+        5,
+        8
+      ],
+      "title": "A Book of Creatures",
+      "url": "https://abookofcreatures.com/"
+    },
+    {
+      "created_at": "2026-02-21T05:11:40+00:00",
+      "description": "Learn touch typing online using TypingClub's free typing courses. It includes 650 typing games, typing tests and videos.",
+      "id": 12,
+      "normalized_url": "https://www.typingclub.com/",
+      "notes": "",
+      "tag_ids": [
+        2,
+        4,
+        8,
+        15
+      ],
+      "title": "Free Touch Typing Software",
+      "url": "https://www.typingclub.com/"
+    },
+    {
+      "created_at": "2026-02-21T05:20:51+00:00",
+      "description": "Discover thousands of classic and modern ASCII artworks, borders, patterns, animations, and text art. Find banners, dividers, icons, and more.",
+      "id": 13,
+      "normalized_url": "https://www.asciiart.eu/",
+      "notes": "",
+      "tag_ids": [
+        2,
+        5,
+        4,
+        8
+      ],
+      "title": "ASCII Art Archive - Home of ASCII Art",
+      "url": "https://www.asciiart.eu/"
+    },
+    {
+      "created_at": "2026-02-21T05:22:40+00:00",
+      "description": "A collection of interactive online music theory tools and piano references for notes, keys, chords and scales. A fun way to learn and retain music concepts.",
+      "id": 14,
+      "normalized_url": "https://muted.io/",
+      "notes": "",
+      "tag_ids": [
+        2,
+        4,
+        8
+      ],
+      "title": "Magical Music Theory Tools to Learn Music Online for Free",
+      "url": "https://muted.io/"
+    },
+    {
+      "created_at": "2026-02-21T05:54:13+00:00",
+      "description": "Watch Movies and Tv Series from Netflix, Amazon Prime Video, Disney+, Hotstar and 50+ More OTT Platform, No Ads with 1 click play available in Android mobile, Iphone IOS and computer.",
+      "id": 15,
+      "normalized_url": "https://net11.cc/home",
+      "notes": "",
+      "tag_ids": [
+        11,
+        2,
+        8
+      ],
+      "title": "NetFlixMirror",
+      "url": "https://net11.cc/home"
+    },
+    {
+      "created_at": "2026-02-21T14:30:02+00:00",
+      "description": "4FNet restores and preserves classic PC games. Download abandoned and retro PC titles, optimized for Windows systems and ready to play today.",
+      "id": 16,
+      "normalized_url": "https://www.4fnet.org/",
+      "notes": "",
+      "tag_ids": [
+        2,
+        7,
+        8
+      ],
+      "title": "4FNet",
+      "url": "https://www.4fnet.org/"
+    },
+    {
+      "created_at": "2026-03-11T13:03:18+00:00",
+      "description": "The most customizable typing test website with a minimal design and a ton of features. Test yourself in various modes, track your progress and improve your speed.",
+      "id": 17,
+      "normalized_url": "https://monkeytype.com/",
+      "notes": "",
+      "tag_ids": [
+        2,
+        4,
+        15,
+        8
+      ],
+      "title": "Monkeytype | A minimalistic, customizable typing test",
+      "url": "https://monkeytype.com/"
+    },
+    {
+      "created_at": "2026-03-11T13:07:14+00:00",
+      "description": "A directory of direct links to delete your account from web services.",
+      "id": 18,
+      "normalized_url": "https://justdeleteme.xyz/",
+      "notes": "",
+      "tag_ids": [
+        5,
+        2,
+        8
+      ],
+      "title": "JustDeleteMe",
+      "url": "https://justdeleteme.xyz/"
+    },
+    {
+      "created_at": "2026-03-11T13:21:37+00:00",
+      "description": "Username and Domain Name Checker - Search All Domain Names and UserNames to see if they're available.",
+      "id": 19,
+      "normalized_url": "https://namechk.com/",
+      "notes": "",
+      "tag_ids": [
+        2,
+        4,
+        8,
+        16
+      ],
+      "title": "Namechk",
+      "url": "https://namechk.com/"
+    },
+    {
+      "created_at": "2026-03-11T13:24:17+00:00",
+      "description": "Discover the identity behind any email with our accurate reverse email lookup service.",
+      "id": 20,
+      "normalized_url": "https://intelbase.is/",
+      "notes": "",
+      "tag_ids": [
+        3,
+        8,
+        16,
+        4
+      ],
+      "title": "IntelBase",
+      "url": "https://intelbase.is/"
+    },
+    {
+      "created_at": "2026-03-11T13:27:55+00:00",
+      "description": "CandyCall is the best AI prank calling app on the internet. Start sending funny prank calls using hundreds of famous celebrity AI voices.",
+      "id": 21,
+      "normalized_url": "https://www.candycall.io/",
+      "notes": "",
+      "tag_ids": [
+        2,
+        11,
+        17
+      ],
+      "title": "CandyCall - Send AI Prank Calls to friends.",
+      "url": "https://www.candycall.io/"
+    },
+    {
+      "created_at": "2026-03-24T12:21:25+00:00",
+      "description": "Download Free 4K Live Wallpapers at MotionBGs ✓ 100% Free ✓ Best 8770+  Animated Wallpapers for PC on Windows 11/10 & Mobile",
+      "id": 22,
+      "normalized_url": "https://motionbgs.com/",
+      "notes": "",
+      "tag_ids": [
+        2,
+        18,
+        8,
+        19
+      ],
+      "title": "Motion Backgrounds",
+      "url": "https://motionbgs.com/"
+    },
+    {
+      "created_at": "2026-03-26T04:23:33+00:00",
+      "description": "Online Tools offers hundreds and hundreds of utilities for editing images, animations,text,text-to-speech and more online tools .Try for free!",
+      "id": 23,
+      "normalized_url": "https://www.toolfk.com/",
+      "notes": "",
+      "tag_ids": [
+        8,
+        4,
+        2
+      ],
+      "title": "ToolFK Online Tools - all in one tool",
+      "url": "https://www.toolfk.com/"
+    },
+    {
+      "created_at": "2026-03-30T12:11:42+00:00",
+      "description": "IoT and Embedded System Simulator: ESP32, STM32, Arduino, Raspberry Pi Pico, displays, sensors, motors and WiFi simulation.",
+      "id": 24,
+      "normalized_url": "https://wokwi.com/",
+      "notes": "",
+      "tag_ids": [
+        2,
+        4,
+        8,
+        21
+      ],
+      "title": "Wokwi - World's most advanced ESP32 Simulator",
+      "url": "https://wokwi.com/"
+    },
+    {
+      "created_at": "2026-03-30T14:04:03+00:00",
+      "description": "Swishy is the leading AI motion designer and AI animator platform. Create professional motion graphics, animated typefaces, and stunning video animations without After Effects. Export to MP4, MOV, and GIF instantly.",
+      "id": 25,
+      "normalized_url": "https://www.swishy.ai/",
+      "notes": "",
+      "tag_ids": [
+        2,
+        20,
+        8
+      ],
+      "title": "Swishy - AI Motion Designer & Animator",
+      "url": "https://www.swishy.ai/"
+    },
+    {
+      "created_at": "2026-03-30T14:13:45+00:00",
+      "description": "Diode is a 3D hardware simulator capable of simulating arduinos, integrated circuits, capacitors, transistors and much more.",
+      "id": 26,
+      "normalized_url": "https://www.withdiode.com/",
+      "notes": "",
+      "tag_ids": [
+        2,
+        8
+      ],
+      "title": "Diode — Build, program, and simulate hardware",
+      "url": "https://www.withdiode.com/"
+    },
+    {
+      "created_at": "2026-04-17T15:59:02+00:00",
+      "description": "Free online map poster and wallpaper generator. Design custom, print-ready map art for any city or location — export as PNG, PDF, or SVG. No sign-up required.",
+      "id": 27,
+      "normalized_url": "https://terraink.app/",
+      "notes": "",
+      "tag_ids": [
+        22,
+        8
+      ],
+      "title": "Terraink: Free Map Poster & Wallpaper Creator",
+      "url": "https://terraink.app/"
+    },
+    {
+      "created_at": "2026-04-17T16:03:13+00:00",
+      "description": "Listed 500+ mini project ideas from different domains like EnTc, IoT, Robotics etc, I will keep updating this list & i will add more projects. - astrix884/500-Engineering-Mini-Projects-EnTC-ECE-IoT-Mechatronics-Robotics",
+      "id": 28,
+      "normalized_url": "https://github.com/astrix884/500-Engineering-Mini-Projects-EnTC-ECE-IoT-Mechatronics-Robotics",
+      "notes": "",
+      "tag_ids": [
+        6
+      ],
+      "title": "GitHub - astrix884/500-Engineering-Mini-Projects",
+      "url": "https://github.com/astrix884/500-Engineering-Mini-Projects-EnTC-ECE-IoT-Mechatronics-Robotics"
+    },
+    {
+      "created_at": "2026-05-20T14:17:46+00:00",
+      "description": "Welcome to the world of manga. Latest novelties manga to read online. A daily updated directory of the manga. Read along with us.",
+      "id": 29,
+      "normalized_url": "https://www.mangaread.org/",
+      "notes": "",
+      "tag_ids": [
+        2,
+        8,
+        24
+      ],
+      "title": "Manga read",
+      "url": "https://www.mangaread.org/"
+    },
+    {
+      "created_at": "2026-05-21T16:43:36+00:00",
+      "description": "Stream and download millions of Hi-Res FLACs, unreleased songs and music videos, all for free on Monochrome.",
+      "id": 30,
+      "normalized_url": "https://monochrome.tf/",
+      "notes": "",
+      "tag_ids": [
+        25,
+        2,
+        8
+      ],
+      "title": "Monochrome",
+      "url": "https://monochrome.tf/"
+    },
+    {
+      "created_at": "2026-05-22T08:37:39+00:00",
+      "description": "Free games site every game available",
+      "id": 31,
+      "normalized_url": "https://ankergames.net/",
+      "notes": "",
+      "tag_ids": [
+        2,
+        8
+      ],
+      "title": "Ankregames",
+      "url": "https://ankergames.net/"
+    },
+    {
+      "created_at": "2026-06-16T15:05:18+00:00",
+      "description": "Your source for the best high quality wallpapers on the Net!",
+      "id": 32,
+      "normalized_url": "https://wallhaven.cc/",
+      "notes": "",
+      "tag_ids": [
+        2,
+        18,
+        26
+      ],
+      "title": "Awesome Wallpapers - wallhaven.cc",
+      "url": "https://wallhaven.cc/"
+    },
+    {
+      "created_at": "2026-06-19T12:10:26+00:00",
+      "description": "Create amazing music with Hooktheory. Software and interactive learning material to help musicians write melodies and chord progressions.",
+      "id": 33,
+      "normalized_url": "https://www.hooktheory.com/",
+      "notes": "",
+      "tag_ids": [
+        2,
+        25,
+        8,
+        3
+      ],
+      "title": "Hooktheory: Create Amazing Music.",
+      "url": "https://www.hooktheory.com/"
+    },
+    {
+      "created_at": "2026-06-19T12:16:33+00:00",
+      "description": "Create Minecraft mods without coding on the world's most powerful mod maker. Join the 500,000+ players today and bring your idea to life! Make your own full mod, items, weapons, blocks, armor, mobs, biomes, and more",
+      "id": 34,
+      "normalized_url": "https://creativemode.net/",
+      "notes": "",
+      "tag_ids": [
+        7,
+        8
+      ],
+      "title": "Minecraft Mods without Coding",
+      "url": "https://creativemode.net/"
+    },
+    {
+      "created_at": "2026-06-20T05:37:19+00:00",
+      "description": "Free online storyboard software for film, education, UX, and marketing. Create professional storyboards — no drawing skills needed. Try StoryTribe free.",
+      "id": 35,
+      "normalized_url": "https://storytribeapp.com/",
+      "notes": "",
+      "tag_ids": [
+        2,
+        3,
+        8,
+        27
+      ],
+      "title": "Free Online Storyboard Maker for Film & Education | StoryTribe",
+      "url": "https://storytribeapp.com/"
+    },
+    {
+      "created_at": "2026-06-20T05:42:54+00:00",
+      "description": "EarthCam is the leading network of live streaming webcams for tourism and entertainment around the world with 4K streaming technology.",
+      "id": 36,
+      "normalized_url": "https://www.earthcam.com/",
+      "notes": "",
+      "tag_ids": [
+        8,
+        2
+      ],
+      "title": "EarthCam - Webcam Network",
+      "url": "https://www.earthcam.com/"
+    },
+    {
+      "created_at": "2026-06-20T05:44:29+00:00",
+      "description": "Write a letter to the future: set goals for yourself, make a prediction about the world. Envision the future, and then make it happen. FutureMe has been delivering letters to the future for millions of people since 2002.",
+      "id": 37,
+      "normalized_url": "https://www.futureme.org/",
+      "notes": "",
+      "tag_ids": [
+        2,
+        8
+      ],
+      "title": "FutureMe: Write a Letter to your Future Self",
+      "url": "https://www.futureme.org/"
+    },
+    {
+      "created_at": "2026-06-20T05:46:26+00:00",
+      "description": "Supercook is a recipe search engine that lets you search by ingredients you have at home. Find thousands of recipes you can make right now with the ingredients you have available at home.",
+      "id": 38,
+      "normalized_url": "https://www.supercook.com/",
+      "notes": "",
+      "tag_ids": [
+        2,
+        8
+      ],
+      "title": "Supercook: recipe search by ingredients you have at home",
+      "url": "https://www.supercook.com/"
+    },
+    {
+      "created_at": "2026-06-23T13:01:55+00:00",
+      "description": "Discover and track your favorite movies and TV shows across all streaming platforms. Get personalized recommendations, trending content, and streaming availability information.",
+      "id": 39,
+      "normalized_url": "https://cinehd.app/home",
+      "notes": "",
+      "tag_ids": [
+        2,
+        8
+      ],
+      "title": "CineHD - Explore Movies & TV Shows Across All Platforms",
+      "url": "https://cinehd.app/home"
+    },
+    {
+      "created_at": "2026-07-07T18:00:45+00:00",
+      "description": "Stream anime online free in HD on ANITUSK. Watch subbed and dubbed anime. Discover trending, seasonal, and top-rated anime powered by AniList.",
+      "id": 40,
+      "normalized_url": "https://anitusk.com/",
+      "notes": "",
+      "tag_ids": [
+        2,
+        8,
+        28
+      ],
+      "title": "ANITUSK – Watch Anime Online Free in HD | Sub & Dub",
+      "url": "https://anitusk.com/"
+    }
+  ]
 }
