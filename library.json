@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-07-22T02:20:21.094Z",
+  "updated_at": "2026-07-22T02:23:21.671Z",
   "admin_password": "admin",
   "next_link_id": 41,
   "next_tag_id": 29,
@@ -156,6 +156,11 @@
     "library_part1.json",
     "library_part2.json",
     "library_part3.json"
+  ],
+  "credits_per_chunk": 10,
+  "total_credits": 1,
+  "credit_chunks": [
+    "credits_part1.json"
   ],
   "links": [
     {
