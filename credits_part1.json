@@ -1,25 +1,13 @@
 {
   "part": 1,
   "count": 1,
-  "updated_at": "2026-07-22T06:04:00.817Z",
+  "updated_at": "2026-07-22T07:08:01.468Z",
   "credits": [
     {
       "id": 1,
       "name": "Mystery3589",
       "role": "Repository Owner & Creator",
-      "link": "https://github.com/Mystery3589",
-      "links": [
-        {
-          "platform": "GitHub",
-          "url": "https://github.com/Mystery3589",
-          "label": ""
-        },
-        {
-          "platform": "Instagram",
-          "url": "https://www.instagram.com/mystery_10869/",
-          "label": ""
-        }
-      ]
+      "link": "https://github.com/Mystery3589"
     }
   ]
 }
