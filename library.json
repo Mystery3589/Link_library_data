@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "updated_at": "2026-07-22T02:30:17.061Z",
+  "updated_at": "2026-07-22T02:32:53.489Z",
   "admin_password": "admin",
   "next_link_id": 41,
-  "next_tag_id": 21,
+  "next_tag_id": 24,
   "next_credit_id": 2,
   "tags": [
     {
@@ -105,6 +105,21 @@
       "id": 20,
       "name": "creative",
       "description": "Storyboarding, character crafting, map design, and creative writing assets."
+    },
+    {
+      "id": 21,
+      "name": "free",
+      "description": "Zero-cost services, open-source resources, and entirely free tools with no paywalls."
+    },
+    {
+      "id": 22,
+      "name": "partially-paid",
+      "description": "Freemium services featuring free tiers, trial credits, or optional paid upgrades."
+    },
+    {
+      "id": 23,
+      "name": "paid",
+      "description": "Commercial tools, premium software, or subscription-based platforms."
     }
   ],
   "credits": [
@@ -137,7 +152,8 @@
       "tag_ids": [
         5,
         6,
-        17
+        17,
+        21
       ],
       "title": "Download ROMs for GBA, SNES, NDS, N64, PSX, 3DS, GBC and more!",
       "url": "https://www.romsgames.net/"
@@ -151,7 +167,8 @@
       "tag_ids": [
         11,
         14,
-        17
+        17,
+        21
       ],
       "title": "Internet Archive",
       "url": "https://archive.org/"
@@ -165,7 +182,8 @@
       "tag_ids": [
         4,
         10,
-        17
+        17,
+        21
       ],
       "title": "PaperMe - Custom Paper Generator",
       "url": "https://paperme.pixzens.com/en"
@@ -178,7 +196,8 @@
       "notes": "",
       "tag_ids": [
         4,
-        17
+        17,
+        21
       ],
       "title": "Free Online Tools - Commontools.org",
       "url": "https://commontools.org/"
@@ -192,7 +211,8 @@
       "tag_ids": [
         1,
         7,
-        20
+        20,
+        22
       ],
       "title": "Agent Opus | Create videos from ideas in any form",
       "url": "https://agent.opus.pro/"
@@ -206,7 +226,8 @@
       "tag_ids": [
         2,
         3,
-        18
+        18,
+        21
       ],
       "title": "IP-Tracer",
       "url": "https://github.com/rajkumardusad/IP-Tracer"
@@ -220,7 +241,8 @@
       "tag_ids": [
         7,
         14,
-        16
+        16,
+        21
       ],
       "title": "TopCartoons.TV: Watch Online Cartoons",
       "url": "https://www.topcartoons.tv/"
@@ -234,7 +256,8 @@
       "tag_ids": [
         1,
         10,
-        20
+        20,
+        22
       ],
       "title": "Artflow ai",
       "url": "https://app.artflow.ai/actor-studio"
@@ -248,7 +271,8 @@
       "tag_ids": [
         2,
         4,
-        11
+        11,
+        21
       ],
       "title": "Hacks plaining",
       "url": "https://www.hacksplaining.com/"
@@ -261,7 +285,8 @@
       "notes": "",
       "tag_ids": [
         4,
-        11
+        11,
+        21
       ],
       "title": "explainshell.com - match command-line arguments to their help text",
       "url": "https://explainshell.com/"
@@ -275,7 +300,8 @@
       "tag_ids": [
         11,
         16,
-        20
+        20,
+        21
       ],
       "title": "A Book of Creatures",
       "url": "https://abookofcreatures.com/"
@@ -288,7 +314,8 @@
       "notes": "",
       "tag_ids": [
         11,
-        13
+        13,
+        21
       ],
       "title": "Free Touch Typing Software",
       "url": "https://www.typingclub.com/"
@@ -302,7 +329,8 @@
       "tag_ids": [
         4,
         10,
-        20
+        20,
+        21
       ],
       "title": "ASCII Art Archive - Home of ASCII Art",
       "url": "https://www.asciiart.eu/"
@@ -316,7 +344,8 @@
       "tag_ids": [
         8,
         9,
-        11
+        11,
+        21
       ],
       "title": "Magical Music Theory Tools to Learn Music Online for Free",
       "url": "https://muted.io/"
@@ -329,7 +358,8 @@
       "notes": "",
       "tag_ids": [
         14,
-        16
+        16,
+        21
       ],
       "title": "NetFlixMirror",
       "url": "https://net11.cc/home"
@@ -343,7 +373,8 @@
       "tag_ids": [
         5,
         6,
-        16
+        16,
+        21
       ],
       "title": "4FNet",
       "url": "https://www.4fnet.org/"
@@ -357,7 +388,8 @@
       "tag_ids": [
         4,
         13,
-        17
+        17,
+        21
       ],
       "title": "Monkeytype | A minimalistic, customizable typing test",
       "url": "https://monkeytype.com/"
@@ -371,7 +403,8 @@
       "tag_ids": [
         2,
         17,
-        19
+        19,
+        21
       ],
       "title": "JustDeleteMe",
       "url": "https://justdeleteme.xyz/"
@@ -385,7 +418,8 @@
       "tag_ids": [
         3,
         4,
-        17
+        17,
+        21
       ],
       "title": "Namechk",
       "url": "https://namechk.com/"
@@ -399,7 +433,8 @@
       "tag_ids": [
         2,
         3,
-        19
+        19,
+        22
       ],
       "title": "IntelBase",
       "url": "https://intelbase.is/"
@@ -413,7 +448,8 @@
       "tag_ids": [
         1,
         8,
-        16
+        16,
+        22
       ],
       "title": "CandyCall - Send AI Prank Calls to friends.",
       "url": "https://www.candycall.io/"
@@ -427,7 +463,8 @@
       "tag_ids": [
         7,
         10,
-        20
+        20,
+        21
       ],
       "title": "Motion Backgrounds",
       "url": "https://motionbgs.com/"
@@ -440,7 +477,8 @@
       "notes": "",
       "tag_ids": [
         4,
-        17
+        17,
+        21
       ],
       "title": "ToolFK Online Tools - all in one tool",
       "url": "https://www.toolfk.com/"
@@ -454,7 +492,8 @@
       "tag_ids": [
         4,
         11,
-        12
+        12,
+        22
       ],
       "title": "Wokwi - World's most advanced ESP32 Simulator",
       "url": "https://wokwi.com/"
@@ -468,7 +507,8 @@
       "tag_ids": [
         1,
         7,
-        20
+        20,
+        22
       ],
       "title": "Swishy - AI Motion Designer & Animator",
       "url": "https://www.swishy.ai/"
@@ -482,7 +522,8 @@
       "tag_ids": [
         4,
         11,
-        12
+        12,
+        21
       ],
       "title": "Diode — Build, program, and simulate hardware",
       "url": "https://www.withdiode.com/"
@@ -496,7 +537,8 @@
       "tag_ids": [
         10,
         17,
-        20
+        20,
+        21
       ],
       "title": "Terraink: Free Map Poster & Wallpaper Creator",
       "url": "https://terraink.app/"
@@ -510,7 +552,8 @@
       "tag_ids": [
         11,
         12,
-        18
+        18,
+        21
       ],
       "title": "GitHub - astrix884/500-Engineering-Mini-Projects",
       "url": "https://github.com/astrix884/500-Engineering-Mini-Projects-EnTC-ECE-IoT-Mechatronics-Robotics"
@@ -523,7 +566,8 @@
       "notes": "",
       "tag_ids": [
         15,
-        16
+        16,
+        21
       ],
       "title": "Manga read",
       "url": "https://www.mangaread.org/"
@@ -537,7 +581,8 @@
       "tag_ids": [
         8,
         9,
-        14
+        14,
+        21
       ],
       "title": "Monochrome",
       "url": "https://monochrome.tf/"
@@ -550,7 +595,8 @@
       "notes": "",
       "tag_ids": [
         5,
-        16
+        16,
+        21
       ],
       "title": "Ankregames",
       "url": "https://ankergames.net/"
@@ -563,7 +609,8 @@
       "notes": "",
       "tag_ids": [
         10,
-        20
+        20,
+        21
       ],
       "title": "Awesome Wallpapers - wallhaven.cc",
       "url": "https://wallhaven.cc/"
@@ -577,7 +624,8 @@
       "tag_ids": [
         8,
         9,
-        11
+        11,
+        22
       ],
       "title": "Hooktheory: Create Amazing Music.",
       "url": "https://www.hooktheory.com/"
@@ -591,7 +639,8 @@
       "tag_ids": [
         5,
         17,
-        20
+        20,
+        22
       ],
       "title": "Minecraft Mods without Coding",
       "url": "https://creativemode.net/"
@@ -605,7 +654,8 @@
       "tag_ids": [
         10,
         11,
-        20
+        20,
+        22
       ],
       "title": "Free Online Storyboard Maker for Film & Education | StoryTribe",
       "url": "https://storytribeapp.com/"
@@ -618,7 +668,8 @@
       "notes": "",
       "tag_ids": [
         14,
-        16
+        16,
+        21
       ],
       "title": "EarthCam - Webcam Network",
       "url": "https://www.earthcam.com/"
@@ -631,7 +682,8 @@
       "notes": "",
       "tag_ids": [
         17,
-        20
+        20,
+        21
       ],
       "title": "FutureMe: Write a Letter to your Future Self",
       "url": "https://www.futureme.org/"
@@ -644,7 +696,8 @@
       "notes": "",
       "tag_ids": [
         17,
-        20
+        20,
+        21
       ],
       "title": "Supercook: recipe search by ingredients you have at home",
       "url": "https://www.supercook.com/"
@@ -657,7 +710,8 @@
       "notes": "",
       "tag_ids": [
         14,
-        16
+        16,
+        21
       ],
       "title": "CineHD - Explore Movies & TV Shows Across All Platforms",
       "url": "https://cinehd.app/home"
@@ -671,7 +725,8 @@
       "tag_ids": [
         14,
         15,
-        16
+        16,
+        21
       ],
       "title": "ANITUSK – Watch Anime Online Free in HD | Sub & Dub",
       "url": "https://anitusk.com/"
