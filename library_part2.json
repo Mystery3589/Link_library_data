@@ -1,0 +1,218 @@
+{
+  "part": 2,
+  "count": 15,
+  "updated_at": "2026-07-22T02:20:21.094Z",
+  "links": [
+    {
+      "created_at": "2026-02-21T14:30:02+00:00",
+      "description": "4FNet restores and preserves classic PC games. Download abandoned and retro PC titles, optimized for Windows systems and ready to play today.",
+      "id": 16,
+      "normalized_url": "https://www.4fnet.org/",
+      "notes": "",
+      "tag_ids": [
+        2,
+        7,
+        8
+      ],
+      "title": "4FNet",
+      "url": "https://www.4fnet.org/"
+    },
+    {
+      "created_at": "2026-03-11T13:03:18+00:00",
+      "description": "The most customizable typing test website with a minimal design and a ton of features. Test yourself in various modes, track your progress and improve your speed.",
+      "id": 17,
+      "normalized_url": "https://monkeytype.com/",
+      "notes": "",
+      "tag_ids": [
+        2,
+        4,
+        15,
+        8
+      ],
+      "title": "Monkeytype | A minimalistic, customizable typing test",
+      "url": "https://monkeytype.com/"
+    },
+    {
+      "created_at": "2026-03-11T13:07:14+00:00",
+      "description": "A directory of direct links to delete your account from web services.",
+      "id": 18,
+      "normalized_url": "https://justdeleteme.xyz/",
+      "notes": "",
+      "tag_ids": [
+        5,
+        2,
+        8
+      ],
+      "title": "JustDeleteMe",
+      "url": "https://justdeleteme.xyz/"
+    },
+    {
+      "created_at": "2026-03-11T13:21:37+00:00",
+      "description": "Username and Domain Name Checker - Search All Domain Names and UserNames to see if they're available.",
+      "id": 19,
+      "normalized_url": "https://namechk.com/",
+      "notes": "",
+      "tag_ids": [
+        2,
+        4,
+        8,
+        16
+      ],
+      "title": "Namechk",
+      "url": "https://namechk.com/"
+    },
+    {
+      "created_at": "2026-03-11T13:24:17+00:00",
+      "description": "Discover the identity behind any email with our accurate reverse email lookup service.",
+      "id": 20,
+      "normalized_url": "https://intelbase.is/",
+      "notes": "",
+      "tag_ids": [
+        3,
+        8,
+        16,
+        4
+      ],
+      "title": "IntelBase",
+      "url": "https://intelbase.is/"
+    },
+    {
+      "created_at": "2026-03-11T13:27:55+00:00",
+      "description": "CandyCall is the best AI prank calling app on the internet. Start sending funny prank calls using hundreds of famous celebrity AI voices.",
+      "id": 21,
+      "normalized_url": "https://www.candycall.io/",
+      "notes": "",
+      "tag_ids": [
+        2,
+        11,
+        17
+      ],
+      "title": "CandyCall - Send AI Prank Calls to friends.",
+      "url": "https://www.candycall.io/"
+    },
+    {
+      "created_at": "2026-03-24T12:21:25+00:00",
+      "description": "Download Free 4K Live Wallpapers at MotionBGs ✓ 100% Free ✓ Best 8770+  Animated Wallpapers for PC on Windows 11/10 & Mobile",
+      "id": 22,
+      "normalized_url": "https://motionbgs.com/",
+      "notes": "",
+      "tag_ids": [
+        2,
+        18,
+        8,
+        19
+      ],
+      "title": "Motion Backgrounds",
+      "url": "https://motionbgs.com/"
+    },
+    {
+      "created_at": "2026-03-26T04:23:33+00:00",
+      "description": "Online Tools offers hundreds and hundreds of utilities for editing images, animations,text,text-to-speech and more online tools .Try for free!",
+      "id": 23,
+      "normalized_url": "https://www.toolfk.com/",
+      "notes": "",
+      "tag_ids": [
+        8,
+        4,
+        2
+      ],
+      "title": "ToolFK Online Tools - all in one tool",
+      "url": "https://www.toolfk.com/"
+    },
+    {
+      "created_at": "2026-03-30T12:11:42+00:00",
+      "description": "IoT and Embedded System Simulator: ESP32, STM32, Arduino, Raspberry Pi Pico, displays, sensors, motors and WiFi simulation.",
+      "id": 24,
+      "normalized_url": "https://wokwi.com/",
+      "notes": "",
+      "tag_ids": [
+        2,
+        4,
+        8,
+        21
+      ],
+      "title": "Wokwi - World's most advanced ESP32 Simulator",
+      "url": "https://wokwi.com/"
+    },
+    {
+      "created_at": "2026-03-30T14:04:03+00:00",
+      "description": "Swishy is the leading AI motion designer and AI animator platform. Create professional motion graphics, animated typefaces, and stunning video animations without After Effects. Export to MP4, MOV, and GIF instantly.",
+      "id": 25,
+      "normalized_url": "https://www.swishy.ai/",
+      "notes": "",
+      "tag_ids": [
+        2,
+        20,
+        8
+      ],
+      "title": "Swishy - AI Motion Designer & Animator",
+      "url": "https://www.swishy.ai/"
+    },
+    {
+      "created_at": "2026-03-30T14:13:45+00:00",
+      "description": "Diode is a 3D hardware simulator capable of simulating arduinos, integrated circuits, capacitors, transistors and much more.",
+      "id": 26,
+      "normalized_url": "https://www.withdiode.com/",
+      "notes": "",
+      "tag_ids": [
+        2,
+        8
+      ],
+      "title": "Diode — Build, program, and simulate hardware",
+      "url": "https://www.withdiode.com/"
+    },
+    {
+      "created_at": "2026-04-17T15:59:02+00:00",
+      "description": "Free online map poster and wallpaper generator. Design custom, print-ready map art for any city or location — export as PNG, PDF, or SVG. No sign-up required.",
+      "id": 27,
+      "normalized_url": "https://terraink.app/",
+      "notes": "",
+      "tag_ids": [
+        22,
+        8
+      ],
+      "title": "Terraink: Free Map Poster & Wallpaper Creator",
+      "url": "https://terraink.app/"
+    },
+    {
+      "created_at": "2026-04-17T16:03:13+00:00",
+      "description": "Listed 500+ mini project ideas from different domains like EnTc, IoT, Robotics etc, I will keep updating this list & i will add more projects. - astrix884/500-Engineering-Mini-Projects-EnTC-ECE-IoT-Mechatronics-Robotics",
+      "id": 28,
+      "normalized_url": "https://github.com/astrix884/500-Engineering-Mini-Projects-EnTC-ECE-IoT-Mechatronics-Robotics",
+      "notes": "",
+      "tag_ids": [
+        6
+      ],
+      "title": "GitHub - astrix884/500-Engineering-Mini-Projects",
+      "url": "https://github.com/astrix884/500-Engineering-Mini-Projects-EnTC-ECE-IoT-Mechatronics-Robotics"
+    },
+    {
+      "created_at": "2026-05-20T14:17:46+00:00",
+      "description": "Welcome to the world of manga. Latest novelties manga to read online. A daily updated directory of the manga. Read along with us.",
+      "id": 29,
+      "normalized_url": "https://www.mangaread.org/",
+      "notes": "",
+      "tag_ids": [
+        2,
+        8,
+        24
+      ],
+      "title": "Manga read",
+      "url": "https://www.mangaread.org/"
+    },
+    {
+      "created_at": "2026-05-21T16:43:36+00:00",
+      "description": "Stream and download millions of Hi-Res FLACs, unreleased songs and music videos, all for free on Monochrome.",
+      "id": 30,
+      "normalized_url": "https://monochrome.tf/",
+      "notes": "",
+      "tag_ids": [
+        25,
+        2,
+        8
+      ],
+      "title": "Monochrome",
+      "url": "https://monochrome.tf/"
+    }
+  ]
+}
