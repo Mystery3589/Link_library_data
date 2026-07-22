@@ -1,145 +1,110 @@
 {
   "version": 2,
-  "updated_at": "2026-07-22T02:24:30.902Z",
+  "updated_at": "2026-07-22T02:28:53.808Z",
   "admin_password": "admin",
   "next_link_id": 41,
-  "next_tag_id": 29,
+  "next_tag_id": 21,
   "next_credit_id": 2,
   "tags": [
     {
+      "id": 1,
+      "name": "ai-tools",
+      "description": "Artificial intelligence agents, generative video/image platforms, and synthetic media tools."
+    },
+    {
       "id": 2,
-      "name": "free",
-      "description": "No-cost services, open-source models, and trial-free developer resources."
+      "name": "cybersecurity",
+      "description": "Web security training, vulnerability scanners, and defensive technology platforms."
     },
     {
       "id": 3,
-      "name": "paid",
-      "description": "Premium products, subscription-based APIs, and high-value paid tools."
+      "name": "osint",
+      "description": "Open-source intelligence gathering, domain lookups, and digital investigation utilities."
     },
     {
       "id": 4,
-      "name": "tool",
-      "description": "Interactive web instruments, development command-lines, and configuration builders."
+      "name": "developer-tools",
+      "description": "Command-line helpers, web utility suites, code generators, and dev productivity apps."
     },
     {
       "id": 5,
-      "name": "library",
-      "description": "Code frameworks, npm packages, modular templates, and drop-in styling repositories."
+      "name": "games",
+      "description": "Web games, classic gaming archives, retro titles, and interactive gaming communities."
     },
     {
       "id": 6,
-      "name": "github-repo",
-      "description": "A carefully classified curation of high-quality resources, software sandboxes, and modern references focusing on the GITHUB-REPO category."
+      "name": "emulation",
+      "description": "Hardware simulators, console ROM archives, and browser-based emulator platforms."
     },
     {
       "id": 7,
-      "name": "games",
-      "description": "A carefully classified curation of high-quality resources, software sandboxes, and modern references focusing on the GAMES category."
+      "name": "animation",
+      "description": "Motion design platforms, 2D/3D animators, video synthesis, and animated assets."
     },
     {
       "id": 8,
-      "name": "website",
-      "description": "Sleek landing pages, web inspiration directories, and online tech hubs."
+      "name": "audio",
+      "description": "Music generation, Hi-Fi audio streaming, sound synthesizers, and voice AI tools."
     },
     {
       "id": 9,
-      "name": "vedio-generator",
-      "description": "A carefully classified curation of high-quality resources, software sandboxes, and modern references focusing on the VEDIO-GENERATOR category."
+      "name": "music-theory",
+      "description": "Interactive chord charts, melody composers, and music education utilities."
     },
     {
       "id": 10,
-      "name": "character-generator",
-      "description": "A carefully classified curation of high-quality resources, software sandboxes, and modern references focusing on the CHARACTER-GENERATOR category."
+      "name": "design-assets",
+      "description": "Wallpapers, map creators, paper templates, and visual graphics repositories."
     },
     {
       "id": 11,
-      "name": "app",
-      "description": "A carefully classified curation of high-quality resources, software sandboxes, and modern references focusing on the APP category."
+      "name": "education",
+      "description": "Interactive learning environments, programming guides, and skill trainers."
     },
     {
       "id": 12,
-      "name": "hacking",
-      "description": "A carefully classified curation of high-quality resources, software sandboxes, and modern references focusing on the HACKING category."
+      "name": "hardware-simulation",
+      "description": "Circuit design, IoT breadboard simulators, microcontrollers, and electronic CAD."
     },
     {
       "id": 13,
-      "name": "cybersecurity",
-      "description": "A carefully classified curation of high-quality resources, software sandboxes, and modern references focusing on the CYBERSECURITY category."
+      "name": "typing",
+      "description": "Customizable speed-typing tests, touch-typing courses, and keyboard training."
     },
     {
       "id": 14,
-      "name": "cartoons",
-      "description": "A carefully classified curation of high-quality resources, software sandboxes, and modern references focusing on the CARTOONS category."
+      "name": "streaming",
+      "description": "High-definition video streaming, anime platforms, OTT aggregation, and live webcams."
     },
     {
       "id": 15,
-      "name": "typing",
-      "description": "A carefully classified curation of high-quality resources, software sandboxes, and modern references focusing on the TYPING category."
+      "name": "anime-manga",
+      "description": "Anime streaming catalogs, manga reading portals, and otaku culture directories."
     },
     {
       "id": 16,
-      "name": "osint",
-      "description": "A carefully classified curation of high-quality resources, software sandboxes, and modern references focusing on the OSINT category."
+      "name": "entertainment",
+      "description": "Pop-culture archives, classic cartoons, interactive media, and leisure hubs."
     },
     {
       "id": 17,
-      "name": "prank",
-      "description": "A carefully classified curation of high-quality resources, software sandboxes, and modern references focusing on the PRANK category."
+      "name": "utility",
+      "description": "Essential everyday web tools, account deletion guides, and quick search helpers."
     },
     {
       "id": 18,
-      "name": "wallpaper",
-      "description": "A carefully classified curation of high-quality resources, software sandboxes, and modern references focusing on the WALLPAPER category."
+      "name": "open-source",
+      "description": "GitHub code repositories, open hardware schematics, and community project lists."
     },
     {
       "id": 19,
-      "name": "animation",
-      "description": "A carefully classified curation of high-quality resources, software sandboxes, and modern references focusing on the ANIMATION category."
+      "name": "privacy",
+      "description": "Data deletion tools, anonymous search utilities, and digital footprint management."
     },
     {
       "id": 20,
-      "name": "motion-design",
-      "description": "A carefully classified curation of high-quality resources, software sandboxes, and modern references focusing on the MOTION-DESIGN category."
-    },
-    {
-      "id": 21,
-      "name": "simulation",
-      "description": "A carefully classified curation of high-quality resources, software sandboxes, and modern references focusing on the SIMULATION category."
-    },
-    {
-      "id": 22,
-      "name": "map-poster",
-      "description": "A carefully classified curation of high-quality resources, software sandboxes, and modern references focusing on the MAP-POSTER category."
-    },
-    {
-      "id": 23,
-      "name": "projects",
-      "description": "A carefully classified curation of high-quality resources, software sandboxes, and modern references focusing on the PROJECTS category."
-    },
-    {
-      "id": 24,
-      "name": "manga",
-      "description": "A carefully classified curation of high-quality resources, software sandboxes, and modern references focusing on the MANGA category."
-    },
-    {
-      "id": 25,
-      "name": "music",
-      "description": "A carefully classified curation of high-quality resources, software sandboxes, and modern references focusing on the MUSIC category."
-    },
-    {
-      "id": 26,
-      "name": "static",
-      "description": "A carefully classified curation of high-quality resources, software sandboxes, and modern references focusing on the STATIC category."
-    },
-    {
-      "id": 27,
-      "name": "story",
-      "description": "A carefully classified curation of high-quality resources, software sandboxes, and modern references focusing on the STORY category."
-    },
-    {
-      "id": 28,
-      "name": "anime",
-      "description": "A carefully classified curation of high-quality resources, software sandboxes, and modern references focusing on the ANIME category."
+      "name": "creative",
+      "description": "Storyboarding, character crafting, map design, and creative writing assets."
     }
   ],
   "credits": [
@@ -170,9 +135,9 @@
       "normalized_url": "https://www.romsgames.net/",
       "notes": "",
       "tag_ids": [
-        2,
-        7,
-        8
+        5,
+        6,
+        17
       ],
       "title": "Download ROMs for GBA, SNES, NDS, N64, PSX, 3DS, GBC and more!",
       "url": "https://www.romsgames.net/"
@@ -184,9 +149,9 @@
       "normalized_url": "https://archive.org/",
       "notes": "",
       "tag_ids": [
-        2,
-        5,
-        8
+        11,
+        14,
+        17
       ],
       "title": "Internet Archive",
       "url": "https://archive.org/"
@@ -198,9 +163,9 @@
       "normalized_url": "https://paperme.pixzens.com/en",
       "notes": "",
       "tag_ids": [
-        2,
         4,
-        8
+        10,
+        17
       ],
       "title": "PaperMe - Custom Paper Generator",
       "url": "https://paperme.pixzens.com/en"
@@ -212,9 +177,8 @@
       "normalized_url": "https://commontools.org/",
       "notes": "",
       "tag_ids": [
-        2,
         4,
-        8
+        17
       ],
       "title": "Free Online Tools - Commontools.org",
       "url": "https://commontools.org/"
@@ -226,10 +190,9 @@
       "normalized_url": "https://agent.opus.pro/",
       "notes": "",
       "tag_ids": [
-        2,
-        9,
-        8,
-        4
+        1,
+        7,
+        20
       ],
       "title": "Agent Opus | Create videos from ideas in any form",
       "url": "https://agent.opus.pro/"
@@ -241,11 +204,9 @@
       "normalized_url": "https://github.com/rajkumardusad/IP-Tracer",
       "notes": "",
       "tag_ids": [
-        13,
         2,
-        6,
-        12,
-        4
+        3,
+        18
       ],
       "title": "IP-Tracer",
       "url": "https://github.com/rajkumardusad/IP-Tracer"
@@ -257,9 +218,9 @@
       "normalized_url": "https://www.topcartoons.tv/",
       "notes": "",
       "tag_ids": [
-        2,
-        8,
-        14
+        7,
+        14,
+        16
       ],
       "title": "TopCartoons.TV: Watch Online Cartoons",
       "url": "https://www.topcartoons.tv/"
@@ -271,10 +232,9 @@
       "normalized_url": "https://app.artflow.ai/actor-studio",
       "notes": "",
       "tag_ids": [
+        1,
         10,
-        2,
-        8,
-        4
+        20
       ],
       "title": "Artflow ai",
       "url": "https://app.artflow.ai/actor-studio"
@@ -287,8 +247,8 @@
       "notes": "",
       "tag_ids": [
         2,
-        8,
-        12
+        4,
+        11
       ],
       "title": "Hacks plaining",
       "url": "https://www.hacksplaining.com/"
@@ -300,9 +260,8 @@
       "normalized_url": "https://explainshell.com/",
       "notes": "",
       "tag_ids": [
-        2,
         4,
-        8
+        11
       ],
       "title": "explainshell.com - match command-line arguments to their help text",
       "url": "https://explainshell.com/"
@@ -314,9 +273,9 @@
       "normalized_url": "https://abookofcreatures.com/",
       "notes": "",
       "tag_ids": [
-        2,
-        5,
-        8
+        11,
+        16,
+        20
       ],
       "title": "A Book of Creatures",
       "url": "https://abookofcreatures.com/"
@@ -328,10 +287,8 @@
       "normalized_url": "https://www.typingclub.com/",
       "notes": "",
       "tag_ids": [
-        2,
-        4,
-        8,
-        15
+        11,
+        13
       ],
       "title": "Free Touch Typing Software",
       "url": "https://www.typingclub.com/"
@@ -343,10 +300,9 @@
       "normalized_url": "https://www.asciiart.eu/",
       "notes": "",
       "tag_ids": [
-        2,
-        5,
         4,
-        8
+        10,
+        20
       ],
       "title": "ASCII Art Archive - Home of ASCII Art",
       "url": "https://www.asciiart.eu/"
@@ -358,9 +314,9 @@
       "normalized_url": "https://muted.io/",
       "notes": "",
       "tag_ids": [
-        2,
-        4,
-        8
+        8,
+        9,
+        11
       ],
       "title": "Magical Music Theory Tools to Learn Music Online for Free",
       "url": "https://muted.io/"
@@ -372,9 +328,8 @@
       "normalized_url": "https://net11.cc/home",
       "notes": "",
       "tag_ids": [
-        11,
-        2,
-        8
+        14,
+        16
       ],
       "title": "NetFlixMirror",
       "url": "https://net11.cc/home"
@@ -386,9 +341,9 @@
       "normalized_url": "https://www.4fnet.org/",
       "notes": "",
       "tag_ids": [
-        2,
-        7,
-        8
+        5,
+        6,
+        16
       ],
       "title": "4FNet",
       "url": "https://www.4fnet.org/"
@@ -400,10 +355,9 @@
       "normalized_url": "https://monkeytype.com/",
       "notes": "",
       "tag_ids": [
-        2,
         4,
-        15,
-        8
+        13,
+        17
       ],
       "title": "Monkeytype | A minimalistic, customizable typing test",
       "url": "https://monkeytype.com/"
@@ -415,9 +369,9 @@
       "normalized_url": "https://justdeleteme.xyz/",
       "notes": "",
       "tag_ids": [
-        5,
         2,
-        8
+        17,
+        19
       ],
       "title": "JustDeleteMe",
       "url": "https://justdeleteme.xyz/"
@@ -429,10 +383,9 @@
       "normalized_url": "https://namechk.com/",
       "notes": "",
       "tag_ids": [
-        2,
+        3,
         4,
-        8,
-        16
+        17
       ],
       "title": "Namechk",
       "url": "https://namechk.com/"
@@ -444,10 +397,9 @@
       "normalized_url": "https://intelbase.is/",
       "notes": "",
       "tag_ids": [
+        2,
         3,
-        8,
-        16,
-        4
+        19
       ],
       "title": "IntelBase",
       "url": "https://intelbase.is/"
@@ -459,9 +411,9 @@
       "normalized_url": "https://www.candycall.io/",
       "notes": "",
       "tag_ids": [
-        2,
-        11,
-        17
+        1,
+        8,
+        16
       ],
       "title": "CandyCall - Send AI Prank Calls to friends.",
       "url": "https://www.candycall.io/"
@@ -473,10 +425,9 @@
       "normalized_url": "https://motionbgs.com/",
       "notes": "",
       "tag_ids": [
-        2,
-        18,
-        8,
-        19
+        7,
+        10,
+        20
       ],
       "title": "Motion Backgrounds",
       "url": "https://motionbgs.com/"
@@ -488,9 +439,8 @@
       "normalized_url": "https://www.toolfk.com/",
       "notes": "",
       "tag_ids": [
-        8,
         4,
-        2
+        17
       ],
       "title": "ToolFK Online Tools - all in one tool",
       "url": "https://www.toolfk.com/"
@@ -502,10 +452,9 @@
       "normalized_url": "https://wokwi.com/",
       "notes": "",
       "tag_ids": [
-        2,
         4,
-        8,
-        21
+        11,
+        12
       ],
       "title": "Wokwi - World's most advanced ESP32 Simulator",
       "url": "https://wokwi.com/"
@@ -517,9 +466,9 @@
       "normalized_url": "https://www.swishy.ai/",
       "notes": "",
       "tag_ids": [
-        2,
-        20,
-        8
+        1,
+        7,
+        20
       ],
       "title": "Swishy - AI Motion Designer & Animator",
       "url": "https://www.swishy.ai/"
@@ -531,8 +480,9 @@
       "normalized_url": "https://www.withdiode.com/",
       "notes": "",
       "tag_ids": [
-        2,
-        8
+        4,
+        11,
+        12
       ],
       "title": "Diode — Build, program, and simulate hardware",
       "url": "https://www.withdiode.com/"
@@ -544,8 +494,9 @@
       "normalized_url": "https://terraink.app/",
       "notes": "",
       "tag_ids": [
-        22,
-        8
+        10,
+        17,
+        20
       ],
       "title": "Terraink: Free Map Poster & Wallpaper Creator",
       "url": "https://terraink.app/"
@@ -557,7 +508,9 @@
       "normalized_url": "https://github.com/astrix884/500-Engineering-Mini-Projects-EnTC-ECE-IoT-Mechatronics-Robotics",
       "notes": "",
       "tag_ids": [
-        6
+        11,
+        12,
+        18
       ],
       "title": "GitHub - astrix884/500-Engineering-Mini-Projects",
       "url": "https://github.com/astrix884/500-Engineering-Mini-Projects-EnTC-ECE-IoT-Mechatronics-Robotics"
@@ -569,9 +522,8 @@
       "normalized_url": "https://www.mangaread.org/",
       "notes": "",
       "tag_ids": [
-        2,
-        8,
-        24
+        15,
+        16
       ],
       "title": "Manga read",
       "url": "https://www.mangaread.org/"
@@ -583,9 +535,9 @@
       "normalized_url": "https://monochrome.tf/",
       "notes": "",
       "tag_ids": [
-        25,
-        2,
-        8
+        8,
+        9,
+        14
       ],
       "title": "Monochrome",
       "url": "https://monochrome.tf/"
@@ -597,8 +549,8 @@
       "normalized_url": "https://ankergames.net/",
       "notes": "",
       "tag_ids": [
-        2,
-        8
+        5,
+        16
       ],
       "title": "Ankregames",
       "url": "https://ankergames.net/"
@@ -610,9 +562,8 @@
       "normalized_url": "https://wallhaven.cc/",
       "notes": "",
       "tag_ids": [
-        2,
-        18,
-        26
+        10,
+        20
       ],
       "title": "Awesome Wallpapers - wallhaven.cc",
       "url": "https://wallhaven.cc/"
@@ -624,10 +575,9 @@
       "normalized_url": "https://www.hooktheory.com/",
       "notes": "",
       "tag_ids": [
-        2,
-        25,
         8,
-        3
+        9,
+        11
       ],
       "title": "Hooktheory: Create Amazing Music.",
       "url": "https://www.hooktheory.com/"
@@ -639,8 +589,9 @@
       "normalized_url": "https://creativemode.net/",
       "notes": "",
       "tag_ids": [
-        7,
-        8
+        5,
+        17,
+        20
       ],
       "title": "Minecraft Mods without Coding",
       "url": "https://creativemode.net/"
@@ -652,10 +603,9 @@
       "normalized_url": "https://storytribeapp.com/",
       "notes": "",
       "tag_ids": [
-        2,
-        3,
-        8,
-        27
+        10,
+        11,
+        20
       ],
       "title": "Free Online Storyboard Maker for Film & Education | StoryTribe",
       "url": "https://storytribeapp.com/"
@@ -667,8 +617,8 @@
       "normalized_url": "https://www.earthcam.com/",
       "notes": "",
       "tag_ids": [
-        8,
-        2
+        14,
+        16
       ],
       "title": "EarthCam - Webcam Network",
       "url": "https://www.earthcam.com/"
@@ -680,8 +630,8 @@
       "normalized_url": "https://www.futureme.org/",
       "notes": "",
       "tag_ids": [
-        2,
-        8
+        17,
+        20
       ],
       "title": "FutureMe: Write a Letter to your Future Self",
       "url": "https://www.futureme.org/"
@@ -693,8 +643,8 @@
       "normalized_url": "https://www.supercook.com/",
       "notes": "",
       "tag_ids": [
-        2,
-        8
+        17,
+        20
       ],
       "title": "Supercook: recipe search by ingredients you have at home",
       "url": "https://www.supercook.com/"
@@ -706,8 +656,8 @@
       "normalized_url": "https://cinehd.app/home",
       "notes": "",
       "tag_ids": [
-        2,
-        8
+        14,
+        16
       ],
       "title": "CineHD - Explore Movies & TV Shows Across All Platforms",
       "url": "https://cinehd.app/home"
@@ -719,9 +669,9 @@
       "normalized_url": "https://anitusk.com/",
       "notes": "",
       "tag_ids": [
-        2,
-        8,
-        28
+        14,
+        15,
+        16
       ],
       "title": "ANITUSK – Watch Anime Online Free in HD | Sub & Dub",
       "url": "https://anitusk.com/"
